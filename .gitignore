@@ -1,3 +1,10 @@
+.idea
+.vscode
+/venv*/
+/logs/
+/bkp/
+/output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +134,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
